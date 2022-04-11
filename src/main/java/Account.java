@@ -1,10 +1,12 @@
+import java.time.LocalDate;
+
 public class Account {
 
-    void deposit(int amount) {
+    void deposit(Amount amount , LocalDate date) {
 
     }
 
-    void withdraw(int amount){
+    void withdraw(Amount amount , LocalDate date){
 
     }
 
